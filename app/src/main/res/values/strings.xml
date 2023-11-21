@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food App Android</string>
+    <string name="t01_titulo">Food Delivery App</string>
+    <string name="t01_subtitulo">Divirta-se \ncomendo</string>
+    <string name="t01_subtitulo02">Delícias para todos os gostos, na palma da sua mão!</string>
+    <string name="t01_button">Vamos começar!</string>
+    <string name="t02_Titulo">Olá [NAME]</string>
+    <string name="pesquisar">Encontrar pedido</string>
+    <string name="Desconto">Até 49% OFF</string>
+    <string name="data">Jan12 - Feb10</string>
+</resources>
